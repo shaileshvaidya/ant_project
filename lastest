@@ -1,3 +1,4 @@
 #/bin/bash
 
 echo "This is latest file"
+echo "Test"
